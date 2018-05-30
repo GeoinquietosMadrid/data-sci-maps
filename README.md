@@ -10,11 +10,8 @@ Introduction to spatial data science with R and Python.
   * Cristina Palomo, Data Scientist at Sngular
   * Ramiro Aznar, Solutions Engineer at CARTO
 
-## Intro to GeoInquietos Madrid
-* Slides
-
-## Spatial Analysis and Visualization with OSM data, Python and CARTOframes
-* Slides
+## Intro to GeoInquietos Madrid and CARTO <3 Data Scientists
+* [Slides](https://docs.google.com/presentation/d/1-hL7_sBRNoBRrKM6zIH-2gTpt2l9Xx4lAezLYh2CFUw/edit?usp=sharing)
 * Notebook
 
 ## Spatial Analysis and Visualization with R
