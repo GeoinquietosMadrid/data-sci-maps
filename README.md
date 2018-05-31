@@ -17,3 +17,4 @@ Introduction to spatial data science with R and Python.
 ## Spatial Analysis and Visualization with R
 * Slides
 * Notebook
+* [HTML](https://cpalomogaro.github.io/avisa/)
