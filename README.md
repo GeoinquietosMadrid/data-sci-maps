@@ -15,6 +15,6 @@ Introduction to spatial data science with R and Python.
 * Notebook: [file](osm2cartoframes/notebook.osm2cartoframes.ipynb) & [live](https://drive.google.com/file/d/1tKu_fuhE8ez_DbdRZtik2s5e0yoiLLk9/view?usp=sharing)
 
 ## Spatial Analysis and Visualization with R
-* Slides
+* [Slides](https://docs.google.com/presentation/d/1WSqaIDX-DOlPzmzL_at5MjB9g6PxpooXA8UtuAe5ASU/edit?usp=sharing)
 * [Notebook](https://github.com/cpalomogaro/avisa)
 * [HTML](https://cpalomogaro.github.io/avisa/)
